@@ -1,4 +1,9 @@
 ### Hi there 👋
+🌱 I’m currently learning about computer vision i.e. how to use OpenCV and about convolutional neural networks (CNNs) following Stanford's CS231n course.
+
+[![Email](https://img.shields.io/badge/-abiola.olaniyan@mail.mcgill.ca-red?style=plastic&logo=Mail.ru&logoColor=white&link=mailto:abiola.olaniyan@mail.mcgill.ca)](mailto:abiola.olaniyan@mail.mcgill.ca)
+
+[![LinkedIn](https://img.shields.io/badge/-AbiolaOlaniyan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiola-olaniyan-9256a2217/)](https://www.linkedin.com/in/abiola-olaniyan-9256a2217/)
 
 <!--
 **olaabi/olaabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
