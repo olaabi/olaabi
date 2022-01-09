@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning about computer vision (including how to use OpenCV) and neural networks (TensorFlow) following Stanford's CS231n course.
+🌱 I’m currently learning about computer vision and neural networks (including how to use OpenCV and TensorFlow) following Stanford's CS231n course.
 
 [![Email](https://img.shields.io/badge/-abiola.olaniyan@mail.mcgill.ca-red?style=plastic&logo=Mail.ru&logoColor=white&link=mailto:abiola.olaniyan@mail.mcgill.ca)](mailto:abiola.olaniyan@mail.mcgill.ca)
 
